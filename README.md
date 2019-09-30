@@ -1,4 +1,3 @@
 # Test
-Just testing everything out
-Ok so this is how you change stuff like this
 
+September 30th learning Git
